@@ -22,7 +22,7 @@ ms.lasthandoff: 10/11/2017
 ---
 # <a name="using-shared-access-signatures-sas"></a>Uso de firmas de acceso compartido (SAS)
 
-Una firma de acceso compartido (SAS) ofrece una manera de conceder acceso limitado a los objetos de la cuenta de almacenamiento a otros clientes exponer la clave de cuenta. En este artículo, se proporciona una introducción del modelo SAS, se analizan las prácticas recomendadas de SAS y se revisan algunos ejemplos.
+Una firma de acceso compartido (SAS) ofrece una manera de conceder acceso limitado a los objetos de la cuenta de almacenamiento a otros clientes sin exponer la clave de cuenta. En este artículo, se proporciona una introducción del modelo SAS, se analizan las prácticas recomendadas de SAS y se revisan algunos ejemplos.
 
 Para obtener ejemplos de código adicionales mediante SAS, aparte de los aquí presentados, consulte [Introducción a Azure Blob Storage en .NET](https://azure.microsoft.com/documentation/samples/storage-blob-dotnet-getting-started/) y otros ejemplos disponibles en la biblioteca [Ejemplos de código de Azure](https://azure.microsoft.com/documentation/samples/?service=storage). Puede descargar las aplicaciones de ejemplo y ejecutarlas, así como ver el código en GitHub.
 
